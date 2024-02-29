@@ -2,15 +2,14 @@
 👋 Hey! I'm Mohammed Awad 
 </h1>
 
-I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at <a href="https://vndigitech.com/en/">VN Digitech Solution</a>, where I sharpened my skills in building robust and innovative web solutions. Presently, I'm an enthusiastic software engineer at <a href="https://www.nustechnology.com/">NUS Technology</a>, continuously expanding my knowledge and proficiency.<p>
-If you're interested in discussing exciting development opportunities or simply want to connect with fellow developers, feel free to reach out! Let's embark on this journey of innovation and technology together. </p>
+I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at <a href="https://vndigitech.com/en/">Warner Media</a>, where I made major updates to <a href="https://nba.com/"> nba.com, <a href="https://hbomax.com/"> HBOMax.com and <a href="https://max.com/"> Max.com. I updated my skills in building robust and innovative web solutions. <p> If you're interested in discussing exciting development opportunities or simply want to connect with fellow developers, feel free to reach out! Let's embark on this journey of innovation and technology together. </p>
 
 <!-- <div style="display: flex; justify-content: space-between">
   <div style="width: 60%"> -->
 
 ### Connect with me
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nghiepnguyen520/)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mawad3/)
 [![Mail Badge](https://img.shields.io/badge/-mawad10101@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mawad10101@gmail.com)
 [![](https://komarev.com/ghpvc/?username=astadk&color=blue&label=Profile%20Views)](https://github.com/mawadSur)
 
