@@ -64,10 +64,3 @@ I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross P
 <span><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astadk&layout=compact&theme=react&hide=php&langs_count=10" /></span>
 <span><a href="https://wakatime.com/@asta_nguyen"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=asta_nguyen&layout=compact&theme=react&langs_count=10" /></a></span>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=astadk&theme=react" height="150" alt="Stat Streak" /></span>
-
-### My Contribute
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-[Nus]: https://www.nustechnology.com/
-[Vndigitech]: https://vndigitech.com/en/
