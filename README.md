@@ -1,8 +1,22 @@
 <h1 align="center">
-👋 Hey! I'm Mohammed Awad 
+👋 Hey! I'm Mohammed Awad
 </h1>
 
-I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at <a href="https://vndigitech.com/en/">Warner Media</a>, where I made major updates to <a href="https://nba.com/"> nba.com, <a href="https://hbomax.com/"> HBOMax.com and <a href="https://max.com/"> Max.com. I updated my skills in building robust and innovative web solutions. <p> If you're interested in discussing exciting development opportunities or simply want to connect with fellow developers, feel free to reach out! Let's embark on this journey of innovation and technology together. </p>
+<p align="center">
+I'm a Staff Software Engineer with over 13 years of experience designing and building scalable, high-performance systems across top-tier companies like Tesla, Meta, Etsy, WarnerMedia, and Regions Bank.
+</p>
+
+<p>
+I specialize in full-stack development, distributed systems, cloud architecture (AWS, Azure), and AI-driven applications. My recent work includes leading simulation platform efforts at <strong>Tesla</strong>, building microservices and mobile platforms at <strong>Meta</strong>, exploring Generative AI at <strong>Etsy</strong>, and driving massive-scale migrations at <strong>WarnerMedia</strong> for platforms like <a href="https://nba.com/" target="_blank">NBA.com</a>, <a href="https://hbomax.com/" target="_blank">HBOMax.com</a>, and <a href="https://max.com/" target="_blank">Max.com</a>.
+</p>
+
+<p>
+I'm passionate about clean architecture, data pipelines, and building developer-friendly ecosystems with tools like React, Node.js, Python, GraphQL, Docker, Kubernetes, and Terraform. I’ve also led teams, mentored engineers, and deployed solutions that support millions of users worldwide.
+</p>
+
+<p>
+If you're working on a project that intersects innovation, performance, and impact—I'd love to connect. Let's build something exceptional together.
+</p>
 
 <!-- <div style="display: flex; justify-content: space-between">
   <div style="width: 60%"> -->
